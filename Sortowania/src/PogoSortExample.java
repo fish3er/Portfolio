@@ -1,5 +1,5 @@
 import java.util.Random;
-public class PogosortExample {
+public class PogoSortExample {
     public static boolean isSorted(int[] array) {
       for (int i = 1; i < array.length; i++) {
           if (array[i] < array[i - 1]) {
